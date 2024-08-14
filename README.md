@@ -1,7 +1,7 @@
 # Coronary-Artery-Disease-ML-Research
 Comprehensive Analysis of the Impactful Factors and Prevalence Trends of Coronary Heart Disease
 
-This repository contains SOME OF the code and materials for the research project focusing on the correlation of various health attributes with the presence and risk of coronary heart disease (CHD) in individuals. Please keep in mind this is not all of the materials, pelase reach out to ryka@seas.upenn.edu for the full project description and code, final paper, presentation slides, and trifold/presentation materials.
+This repository contains SOME OF the code and materials for the research project focusing on the correlation of various health attributes with the presence and risk of coronary heart disease (CHD) in individuals. Please keep in mind this is not all of the materials, please reach out to ryka@seas.upenn.edu for the full project description and code, final paper, presentation slides, and trifold/presentation materials.
 
 ## Project Overview
 
