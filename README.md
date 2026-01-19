@@ -29,7 +29,3 @@ This repository contains SOME OF the code and materials for the research project
      - KNN (Framingham Data): 83.60% with 18 neighbors
      - SVC (Framingham Data): 83.97% with the poly kernel
      - DT (Framingham Data): 76.94% with 7 features
-
-## Project Paper
-
-The detailed project paper (unpublished version) can be accessed [here](https://docs.google.com/document/d/1S7JLXQFlWxFenU8YQ6aSatAJmVtDrmwGEIX7PfLKgMc/edit?usp=sharing).
